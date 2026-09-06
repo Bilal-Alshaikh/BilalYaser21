@@ -1,51 +1,77 @@
-# Hey there, I'm Bilal Alshaikh 👋
+# Hi, I'm Bilal Alshaikh 👋
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+### Software Engineering Graduate | Python Learner | Building My Way Into Software Development
 
-## 🚀 About Me
+I'm a Software Engineering graduate based in **Jeddah, Saudi Arabia**.
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+I'm currently focused on strengthening my programming fundamentals and turning what I learn into practical projects.  
+My main focus right now is **Python**, while also building experience with web technologies and learning how real software projects are structured and developed.
 
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+I enjoy learning by building, experimenting, breaking things, understanding why they work, and improving them step by step.
 
+---
 
+## 🚀 What I'm Currently Working On
 
+- 🐍 Improving my Python skills through practical projects
+- 🧠 Learning Data Structures and problem-solving
+- 🌐 Exploring web development with HTML, CSS, and JavaScript
+- 🔧 Learning Git and GitHub through real project workflows
+- 🛒 Experimenting with e-commerce development on Zid/Vitrin
+- 📚 Building a stronger foundation before specializing further
 
-<br clear="right"/>
+---
 
-## 🔧 My Tech Stack
+## 🛠️ Technologies I've Worked With
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+### Programming
+- Python
+- JavaScript
+- HTML
+- CSS
 
+### Tools & Technologies
+- BeautifulSoup
+- Git & GitHub
+- Excel
+- Zid / Vitrin
 
-## 🎯 LeetCode Heatmap
+> I'm still early in my career, so I prefer to list technologies I've actually worked with rather than everything I've briefly encountered.
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</div>
+---
 
+## 💻 What I've Built So Far
 
-<!--
-**BilalYaser21/BilalYaser21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☕ Interactive Coffee Brewing Experience
+An interactive e-commerce concept for a Zid store where users can choose a coffee brewing method and discover relevant products connected to that method.
 
-Here are some ideas to get you started:
+### 🔎 Web Scraping & Product Data
+Used Python and BeautifulSoup to collect automotive product information from competitor websites and export structured results for further comparison.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Python Learning Projects
+Built several small Python projects while learning programming fundamentals, APIs, data handling, and problem-solving.
+
+More projects are coming as I continue building and improving my GitHub portfolio.
+
+---
+
+## 🎯 My Current Goal
+
+I'm looking to grow into a professional **Software Engineer** by gaining real-world development experience, learning from experienced developers, and continuously improving my technical skills.
+
+I'm currently open to **entry-level software engineering opportunities**, especially in:
+
+📍 Jeddah, Saudi Arabia  
+🌍 Remote opportunities
+
+---
+
+## 📫 Contact
+
+📧 **Email:** bilal.alshaikh18@gmail.com  
+📱 **Phone:** +966 55 755 6007  
+📍 **Location:** Jeddah, Saudi Arabia
+
+---
+
+### 🌱 Still learning. Still building. Getting better one project at a time.
