@@ -2,6 +2,8 @@
 
 ### Software Engineering Graduate | Python Learner | Building My Way Into Software Development
 
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+
 I'm a Software Engineering graduate based in **Jeddah, Saudi Arabia**.
 
 I'm currently focused on strengthening my programming fundamentals and turning what I learn into practical projects.  
