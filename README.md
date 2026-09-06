@@ -2,8 +2,6 @@
 
 **Full-stack Web Developer · CS Student · Coffee Lover ☕**
 
-💼 **Current:** Full Stack Engineer at [Quran.Foundation](https://quran.foundation)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
 </p>
