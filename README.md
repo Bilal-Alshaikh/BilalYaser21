@@ -1,4 +1,4 @@
-# Hey there, I'm [Bilal Alshaikh](https://BilalYaser21.vercel.app/) 👋
+# Hey there, I'm Bilal Alshaikh 👋
 
 **Full-stack Web Developer · CS Student · Coffee Lover ☕**
 
