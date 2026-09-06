@@ -6,6 +6,11 @@
 
 I'm a Software Engineering graduate based in **Jeddah, Saudi Arabia**.
 
+<p align="center">
+  <a herf="https://github.com/Denvercoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokupp.com/?lines=Building%20my%20way%20into%20Software%20Engineering,%20one%20project%20at%20a%20time.&font=Fire%20&Code&center=true&width=440height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+
 I'm currently focused on strengthening my programming fundamentals and turning what I learn into practical projects.  
 My main focus right now is **Python**, while also building experience with web technologies and learning how real software projects are structured and developed.
 
